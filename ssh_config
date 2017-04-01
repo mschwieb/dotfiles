@@ -1,0 +1,5 @@
+# CAEN
+Host caen
+  HostName login-course.engin.umich.edu
+  User mschwieb
+  Compression yes

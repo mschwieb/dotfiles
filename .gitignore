@@ -1,0 +1,5 @@
+# FOR XCODE
+.DS_STORE
+*.swp
+*~.nib
+build/
